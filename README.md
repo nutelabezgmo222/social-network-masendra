@@ -1,2 +1,2 @@
-# php-blog
-Simple PHP OOP blog based on mvc
+# php-social-network
+Simple PHP OOP social-network based on mvc
