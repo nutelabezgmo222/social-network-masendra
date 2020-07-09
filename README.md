@@ -1,2 +1,2 @@
-# social-network-masendra
-my diploma work 
+# php-blog
+Simple PHP OOP blog based on mvc
